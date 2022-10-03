@@ -53,11 +53,13 @@
   </a> 
   
   
-  <a href="http://srv.oceanbrasil.com:8000/certificates/certificado-22-2239-28300.pdf" target="blank">
+  <a href="http://srv.oceanbrasil.com:8000/certificates/certificado-22-2369-28300.pdf" target="blank">
     <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193606135-c90c1d7c-869b-47b3-879b-8774926d6d6e.jpg"/>
   </a>  
   
-  
+  <a href="http://srv.oceanbrasil.com:8000/certificates/certificado-22-2369-28300.pdf" target="blank">
+    <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193606135-c90c1d7c-869b-47b3-879b-8774926d6d6e.jpg"/>
+  </a>  
   
 </div>
     <br>
