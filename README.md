@@ -33,7 +33,7 @@
   </a>  
   
   <a href="https://www.credly.com/badges/289eaa31-cc4d-4734-97a8-69a25b2e37ce/public_url" target="blank">
-    <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+    <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193598949-ba7e41b6-fc54-4f29-981c-5cf9b8293b57.jpg"/>
   </a>
   
   <a href="https://gohorseprocess.com.br/extreme-go-horse-xgh/" target="blank">
