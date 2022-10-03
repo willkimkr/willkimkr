@@ -36,7 +36,7 @@
     <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193598949-ba7e41b6-fc54-4f29-981c-5cf9b8293b57.jpg"/>
   </a>
   
- <a href="[https://www.credly.com/badges/289eaa31-cc4d-4734-97a8-69a25b2e37ce/public_url](http://srv.oceanbrasil.com:8000/certificates/certificado-24-2659-28300.pdf)" target="blank">
+ <a href="http://srv.oceanbrasil.com:8000/certificates/certificado-24-2659-28300.pdf" target="blank">
     <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193598949-ba7e41b6-fc54-4f29-981c-5cf9b8293b57.jpg"/>
   </a>
   
