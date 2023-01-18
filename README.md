@@ -26,9 +26,17 @@
 <div>
   <h2>:trophy: Certificações</h2>
   
+  
+  ![senaifull](https://user-images.githubusercontent.com/98241898/213016182-c38deee6-abae-491a-a6a5-d3abbecf2994.jpg)
+  
+  
+  
   <a href="file:///C:/Users/willian/Pictures/10909435_certificado_Fgv.pdf" target="blank">
     <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193596689-357cdfea-af5a-4fd7-b1e5-945b5ac7d456.jpg"/>
   </a>  
+  
+ 
+
   
   <a href="http://srv.oceanbrasil.com:8000/certificates/certificado-24-2242-28300.pdf" target="blank">
     <img width="15%" height="15%"  src="https://user-images.githubusercontent.com/98241898/193598949-ba7e41b6-fc54-4f29-981c-5cf9b8293b57.jpg"/>
